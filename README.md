@@ -4,6 +4,14 @@ This project simulates restaurant operations over a 30-day period across multipl
 
 ---
 
+## Tableau Dashboard (Live)
+
+Check out my interactive version of this dashboard, built in Tableau:
+
+[View on Tableau Public](https://public.tableau.com/app/profile/joshua.peters1940/viz/Book1_17544206343460/Dashboard1#1)
+
+---
+
 ## Key Metrics Tracked
 - **Total Sales** across all locations
 - **Total Transactions**
@@ -30,6 +38,7 @@ This project simulates restaurant operations over a 30-day period across multipl
 ## Preview
 
 ![Dashboard Screenshot](images/dashboard_screenshot.png)
+![Tableau Screenshot](images/Dashboard 1.png)
 
 ---
 
