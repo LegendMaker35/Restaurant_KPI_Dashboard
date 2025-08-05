@@ -13,9 +13,15 @@ This dashboard simulates the operational performance of a multi-location restaur
 ## Tools Used
 
 - Microsoft Excel (Pivot Tables, Charts)
+- Simulated data generated in CSV format
 
 ##  Dashboard Preview
 
 
 ##  Insights
 
+
+## Files Included
+- `/data/` folder: raw CSV data
+- `Restaurant_KPI_Dashboard.xlsx`: final dashboard
+- `images/`: preview screenshots
