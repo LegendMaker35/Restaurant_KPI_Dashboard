@@ -1,21 +1,26 @@
 # Restaurant KPI Dashboard
 
-This dashboard simulates the operational performance of a multi-location restaurant over a 30-day period. It tracks sales, costs, transactions, and average order values to help managers make data-informed decisions.
+This project simulates a restaurant's operational data over 30+ days across multiple store locations. The dashboard was built in Excel to track key metrics such as sales trends, labor and food costs, and customer transaction data.
 
 ## Key Metrics
-
 - Total Sales
 - Labor Cost % and Food Cost %
-- Transactions per day
+- Transactions
 - Avg Order Value
-- Sales trend by day of the week
+- Sales by Store and Day of Week
 
-## Tools Used
+## Tools
+- Microsoft Excel (Formulas, Pivot Tables, Slicers, Charts)
+- Simulated data generated in CSV format
 
-- Microsoft Excel (Pivot Tables, Charts)
-
-##  Dashboard Preview
+## Preview
 
 
-##  Insights
 
+## Insights
+
+
+## Files Included
+- `/data/` folder: raw CSV data
+- `Restaurant_KPI_Dashboard.xlsx`: final dashboard
+- `images/`: preview screenshots
