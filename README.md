@@ -38,7 +38,6 @@ Check out my interactive version of this dashboard, built in Tableau:
 ## Preview
 
 ![Dashboard Screenshot](images/dashboard_screenshot.png)
-![Dashboard Screenshot](images/Dashboard 1.png)
 
 ---
 
